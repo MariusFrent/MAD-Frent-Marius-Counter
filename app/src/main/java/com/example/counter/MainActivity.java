@@ -14,7 +14,6 @@ import org.w3c.dom.Text;
 public class MainActivity extends AppCompatActivity {
     
     int count=0;
-    TextView textView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
